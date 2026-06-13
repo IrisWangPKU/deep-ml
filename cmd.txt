@@ -13,4 +13,4 @@ git status: 检查当前本地 repo 的状态
 
 git add <某路径>: 暂存(track)文件，等价于在 vscode 点 + 符号
 
-git commit <某路径> :提交(commit)文件
+git commit -m"本次提交信息" :提交(commit)文件
