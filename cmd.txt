@@ -1,0 +1,16 @@
+终端/terminal/bash/linux 命令行操作
+
+pwd: 展现当前路径
+cd <某路径>: 进入该路径目录
+    cd ..: 进入父目录
+
+ls: 列出该目录下面所有子目录
+    ls -a: 列出所有子目录, 包括隐藏文件
+
+git init: 在当前文件夹下面创建本地仓库(repo)
+
+git status: 检查当前本地 repo 的状态
+
+git add <某路径>: 暂存(track)文件，等价于在 vscode 点 + 符号
+
+git commit <某路径> :提交(commit)文件
